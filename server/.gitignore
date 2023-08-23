@@ -37,4 +37,4 @@ out/
 .vscode/
 
 # Ignoring the specific configuration file
-application-ignore.yml
+application.yml
