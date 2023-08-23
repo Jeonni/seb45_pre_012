@@ -36,5 +36,5 @@ out/
 ### VS Code ###
 .vscode/
 
-# Ignoring the specific configuration file
-application.yml
+# .gitignore
+/src/main/resources/application.yml
